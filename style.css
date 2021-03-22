@@ -1,0 +1,14 @@
+
+.header{
+    background-color:yellow;
+    display:flex;
+    justify-content: space-between;
+}
+.game{
+    background-color: teal;
+    display: flex;
+    justify-content:space-evenly;
+}
+p{
+    text-align: center;
+}
